@@ -1,0 +1,17 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  width: 300px;
+  font-weight: 600;
+}
+
+h1, .desc {
+  text-align: center;
+}
+
+button {
+  font-size: large;
+  font-weight: 800;
+  width: 300px;
+  background-color: #d3d3d3;
+  border: none;
+}

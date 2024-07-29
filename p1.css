@@ -1,0 +1,16 @@
+body {
+    font-family: "montserrat", sans-serif;
+    width: 630px;
+    height: 680px;
+    font-weight: 600;
+}
+
+.name-elem-me {
+    text-align: right;
+    
+}
+
+.message-me {
+    text-align: right;
+    background-color: #ff0;
+}
